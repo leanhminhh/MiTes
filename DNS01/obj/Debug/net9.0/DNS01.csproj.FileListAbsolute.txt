@@ -1,0 +1,14 @@
+C:\Users\leean\source\repos\DNS01\DNS01\bin\Debug\net9.0\DNS01.exe
+C:\Users\leean\source\repos\DNS01\DNS01\bin\Debug\net9.0\DNS01.deps.json
+C:\Users\leean\source\repos\DNS01\DNS01\bin\Debug\net9.0\DNS01.runtimeconfig.json
+C:\Users\leean\source\repos\DNS01\DNS01\bin\Debug\net9.0\DNS01.dll
+C:\Users\leean\source\repos\DNS01\DNS01\bin\Debug\net9.0\DNS01.pdb
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\DNS01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\DNS01.AssemblyInfoInputs.cache
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\DNS01.AssemblyInfo.cs
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\DNS01.csproj.CoreCompileInputs.cache
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\DNS01.dll
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\refint\DNS01.dll
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\DNS01.pdb
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\DNS01.genruntimeconfig.cache
+C:\Users\leean\source\repos\DNS01\DNS01\obj\Debug\net9.0\ref\DNS01.dll

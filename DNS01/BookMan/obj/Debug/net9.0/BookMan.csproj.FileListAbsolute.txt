@@ -1,0 +1,14 @@
+C:\Users\leean\source\repos\DNS01\BookMan\bin\Debug\net9.0\BookMan.exe
+C:\Users\leean\source\repos\DNS01\BookMan\bin\Debug\net9.0\BookMan.deps.json
+C:\Users\leean\source\repos\DNS01\BookMan\bin\Debug\net9.0\BookMan.runtimeconfig.json
+C:\Users\leean\source\repos\DNS01\BookMan\bin\Debug\net9.0\BookMan.dll
+C:\Users\leean\source\repos\DNS01\BookMan\bin\Debug\net9.0\BookMan.pdb
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\BookMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\BookMan.AssemblyInfoInputs.cache
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\BookMan.AssemblyInfo.cs
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\BookMan.csproj.CoreCompileInputs.cache
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\BookMan.dll
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\refint\BookMan.dll
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\BookMan.pdb
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\BookMan.genruntimeconfig.cache
+C:\Users\leean\source\repos\DNS01\BookMan\obj\Debug\net9.0\ref\BookMan.dll
