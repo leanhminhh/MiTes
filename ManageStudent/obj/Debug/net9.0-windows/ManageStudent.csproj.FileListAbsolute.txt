@@ -1,0 +1,16 @@
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.Form1.resources
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.csproj.GenerateResource.cache
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.AssemblyInfoInputs.cache
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.AssemblyInfo.cs
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.csproj.CoreCompileInputs.cache
+C:\Users\leean\source\repos\BookManV2\ManageStudent\bin\Debug\net9.0-windows\ManageStudent.exe
+C:\Users\leean\source\repos\BookManV2\ManageStudent\bin\Debug\net9.0-windows\ManageStudent.deps.json
+C:\Users\leean\source\repos\BookManV2\ManageStudent\bin\Debug\net9.0-windows\ManageStudent.runtimeconfig.json
+C:\Users\leean\source\repos\BookManV2\ManageStudent\bin\Debug\net9.0-windows\ManageStudent.dll
+C:\Users\leean\source\repos\BookManV2\ManageStudent\bin\Debug\net9.0-windows\ManageStudent.pdb
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.dll
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\refint\ManageStudent.dll
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.pdb
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ManageStudent.genruntimeconfig.cache
+C:\Users\leean\source\repos\BookManV2\ManageStudent\obj\Debug\net9.0-windows\ref\ManageStudent.dll
